@@ -1,0 +1,5 @@
+{
+  "name": "SIAK-Klinis Koordinator",
+  "description": "Sistem Intelijen Rumah Sakit terintegrasi yang menghubungkan aspek Klinis, Operasional, dan Keuangan (BLU/BPJS) menggunakan Gemini AI.",
+  "requestFramePermissions": []
+}
